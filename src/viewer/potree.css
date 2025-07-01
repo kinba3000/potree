@@ -257,6 +257,8 @@ a:hover, a:visited, a:link, a:active{
 	box-shadow:		0 0 5px #ffffff;
 }
 
+
+
 .annotation-main{
 	display:		flex;
 	flex-grow:		1;
